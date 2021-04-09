@@ -1,0 +1,1 @@
+'RockPaperScissors' is a simple game, the player goes against the computer. The players choice is made by selecting the corresponding button. Results and ongoing score is displayed after each selection.

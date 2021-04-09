@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+    background: black;
+    color: white;
+    font-family:'Luckiest Guy', cursive;
+  }
+
+#contents { 
+    text-align: center;
+    font-size: 70px;
+  }
+
+#scores {
+    margin-left: 25%;
+    font-size: 25px;
+    
+}
+
+#results {
+    margin-top: 25px;
+}
+
+#buttons {
+    margin-top: 80px;  
+}
